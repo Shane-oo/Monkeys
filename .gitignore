@@ -3,3 +3,6 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.vs/Monkeys/xs/project-cache/Monkeys.App-Debug-net7.0-maccatalyst.json
+.vs/Monkeys/xs/project-cache/Monkeys.App-Debug-net7.0-android.json
+.vs/Monkeys/xs/project-cache/Monkeys.App-Release-net7.0-maccatalyst.json

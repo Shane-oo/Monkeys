@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{487A9075-C315-468E-BFA7-D0A4F15AA3ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Monkeys.App/View/DetailsPage.xaml">
+    <Files>
+      <File FileName="Monkeys.App/View/MainPage.xaml" Line="66" Column="29" />
+      <File FileName="Monkeys.App/MauiProgram.cs" Line="28" Column="46" />
+      <File FileName="Monkeys.App/ViewModel/MonkeysViewModel.cs" Line="29" Column="1" />
+      <File FileName="Monkeys.App/ViewModel/MonkeyDetailsViewModel.cs" Line="27" Column="13" />
+      <File FileName="Monkeys.App/ViewModel/BaseViewModel.cs" Line="3" Column="1" />
+      <File FileName="Monkeys.App/Services/MonkeyService.cs" Line="8" Column="1" />
+      <File FileName="Monkeys.App/View/DetailsPage.xaml" Line="39" Column="39" />
+      <File FileName="Monkeys.App/View/MainPage.xaml.cs" Line="15" Column="1" />
+      <File FileName="Monkeys.App/App.xaml" Line="14" Column="34" />
+      <File FileName="Monkeys.App/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="Monkeys.App/AppShell.xaml.cs" Line="15" Column="1" />
+      <File FileName="Monkeys.App/Platforms/iOS/Program.cs" Line="13" Column="1" />
+      <File FileName="Monkeys.App/View/DetailsPage.xaml.cs" Line="13" Column="1" />
+      <File FileName="Monkeys.App/Model/Monkey.cs" />
+      <File FileName="Monkeys.App/Services/NetworkChecker.cs" Line="22" Column="26" />
+      <File FileName="Monkeys.App/Platforms/Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Monkeys.App/Platforms/Android/AndroidManifest.xml" />
+      <File FileName="Monkeys.App/Platforms/iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Monkeys" expanded="True">
+            <Node name="Monkeys.App" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+                <Node name="iOS" expanded="True" />
+                <Node name="Windows" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="DetailsPage.xaml" expanded="True" selected="True" />
+                <Node name="MainPage.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Monkeys.App Xamarin.HotReload.UnhandledDeviceException.Monkeys.App.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.62E1B8B7-DEBF-495E-B6BE-99718B57EFE3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.26" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.62E1B8B7-DEBF-495E-B6BE-99718B57EFE3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/shanemonck/Documents/repos/Monkeys/Monkeys.App/View/DetailsPage.xaml.cs" relfile="Monkeys.App/View/DetailsPage.xaml.cs" line="14" column="1" />
+      <Breakpoint file="/Users/shanemonck/Documents/repos/Monkeys/Monkeys.App/ViewModel/MonkeysViewModel.cs" relfile="Monkeys.App/ViewModel/MonkeysViewModel.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
